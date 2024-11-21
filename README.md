@@ -1,1 +1,1 @@
-# Shortage-of-Sesame-
+# Shortage-of-Sesame-Project management files
